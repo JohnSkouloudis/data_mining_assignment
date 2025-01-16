@@ -61,8 +61,13 @@ Ensure you have the following installed:
 - scikit-learn
 - pandas
 - seaborn
-- imblearn
+- imblearn-learn
 
+Install dependencies using:
+
+```sh
+pip install numpy matplotlib scikit-learn pandas seaborn imbalanced-learn
+```
 
 
 
