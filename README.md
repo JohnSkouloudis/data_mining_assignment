@@ -52,6 +52,12 @@ is captured by a value of 1 in the last column of each row.
 
 ### C) Evaluation of features
 
+### Results 
+RandomForest:
+- Recall: 0.381323
+- Precision:0.848485
+- F_measure: 0.526174
+
 
 
 ## Requirements
